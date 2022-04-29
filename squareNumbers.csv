@@ -1,0 +1,8 @@
+array,i,i <= 100,o,o <= 100,if(o * o == i)
+[],1,true,1,true,true
+[1],2,true,1,true,false
+[1],2,true,2,true,false
+[1],2,true,3,true,false
+[1],2,true,4,true,false
+[1],2,true,5,true,false
+[1],2,true,6,true,false

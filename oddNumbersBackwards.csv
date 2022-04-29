@@ -1,0 +1,7 @@
+array,i,i <= 1,if(i % 2 == 1)
+[],20,true,false
+[],19,true,true
+[19],18,true,false
+[19],17,true,true
+"[19,17]",16,true,false
+"[19,17]",15,true,true

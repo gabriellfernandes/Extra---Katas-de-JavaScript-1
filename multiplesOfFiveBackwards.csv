@@ -1,0 +1,8 @@
+array,i,i >= 1,if(i % 5 == 0)
+[],100,true,true
+[100],99,true,false
+[100],98,true,false
+[100],97,true,false
+[100],96,true,true
+[100],95,true,false
+"[100,95]",94,true,false
